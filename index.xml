@@ -13,7 +13,8 @@
       <pubDate>Tue, 26 Apr 2022 22:13:47 +0200</pubDate>
       
       <guid>https://annasapienza.github.io/SocialDataWebsite/posts/mypost/</guid>
-      <description>This is a plot from Week 8</description>
+      <description>This is a plot from Week 8
+This is an interactive plot with Bokeh from Week 8</description>
     </item>
     
   </channel>
