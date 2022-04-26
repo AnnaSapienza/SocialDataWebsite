@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://annasapienza.github.io/SocialDataWebsite/posts/</loc>
+    <lastmod>2022-04-26T22:13:47+02:00</lastmod>
+  </url><url>
+    <loc>https://annasapienza.github.io/SocialDataWebsite/</loc>
+    <lastmod>2022-04-26T22:13:47+02:00</lastmod>
+  </url><url>
+    <loc>https://annasapienza.github.io/SocialDataWebsite/posts/mypost/</loc>
+    <lastmod>2022-04-26T22:13:47+02:00</lastmod>
+  </url><url>
+    <loc>https://annasapienza.github.io/SocialDataWebsite/categories/</loc>
+  </url><url>
+    <loc>https://annasapienza.github.io/SocialDataWebsite/tags/</loc>
+  </url>
+</urlset>
